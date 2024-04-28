@@ -3,11 +3,11 @@
   <title>MThe Blog</title>
   
   <subtitle>Blog House</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://126hello.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-04-24T07:09:34.582Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://126hello.github.io/"/>
+  <updated>2024-04-27T13:00:44.742Z</updated>
+  <id>http://126hello.github.io/</id>
   
   <author>
     <name>Mr XY</name>
@@ -17,9 +17,72 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Os</title>
+    <link href="http://126hello.github.io/posts/ff3461b3.html"/>
+    <id>http://126hello.github.io/posts/ff3461b3.html</id>
+    <published>2024-04-27T12:28:38.000Z</published>
+    <updated>2024-04-27T13:00:44.742Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、简介"><a href="#一、简介" class="headerlink" title="一、简介"></a>一、简介</h1><p> 这篇博客用于记录实验项目一，记录遭遇的问题及解决方案，个人的收获等。作者认为这是一个具有挑战且很有意义的项目，<strong>实践才能最好的锻炼自己的头脑</strong>，不必太功利，不在乎问题的难度，就像你用三天来创建你的博客一样，坚持自己的兴趣，全身心的投入是多么让人幸福的事！（过去已经证明）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一、简介&quot;&gt;&lt;a href=&quot;#一、简介&quot; class=&quot;headerlink&quot; title=&quot;一、简介&quot;&gt;&lt;/a&gt;一、简介&lt;/h1&gt;&lt;p&gt; 这篇博客用于记录实验项目一，记录遭遇的问题及解决方案，个人的收获等。作者认为这是一个具有挑战且很有意义的项目，&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>哲思录</title>
+    <link href="http://126hello.github.io/posts/c0bbe990.html"/>
+    <id>http://126hello.github.io/posts/c0bbe990.html</id>
+    <published>2024-04-25T09:52:31.000Z</published>
+    <updated>2024-04-25T13:54:37.441Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="哲学是什么？"><a href="#哲学是什么？" class="headerlink" title="哲学是什么？"></a>哲学是什么？</h3><p>哲学是人的思想的结晶。</p><h3 id="读了阳明心学，你有什么感觉？"><a href="#读了阳明心学，你有什么感觉？" class="headerlink" title="读了阳明心学，你有什么感觉？"></a>读了阳明心学，你有什么感觉？</h3><p>阳明心学是一个开创性的，针对焦虑的良药。她的强大是无可置疑的，因为在我读到的一些工具类书籍中，都有阳明学的影子。但她和哲学一样都太难让人听懂，让人实践出来了。</p><p>其实我也不能说读了阳明心学，只是了解了一番他的事迹，感慨他的挫折成败，被贬江西赣州说出了：“坡山中贼易，破心中贼难。”的确，心中的很多种种都是我们焦虑的来源，这种自我的</p><h3 id="命中注定"><a href="#命中注定" class="headerlink" title="命中注定"></a>命中注定</h3><p>你的容貌，智商，家庭，都不是一个人能轻易改变的，顺从命运的安排能帮你摆脱痛苦，这样一看提升自己的能力变得轻易而可行。。。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;哲学是什么？&quot;&gt;&lt;a href=&quot;#哲学是什么？&quot; class=&quot;headerlink&quot; title=&quot;哲学是什么？&quot;&gt;&lt;/a&gt;哲学是什么？&lt;/h3&gt;&lt;p&gt;哲学是人的思想的结晶。&lt;/p&gt;
+&lt;h3 id=&quot;读了阳明心学，你有什么感觉？&quot;&gt;&lt;a href=&quot;#读了阳明</summary>
+      
+    
+    
+    
+    
+    <category term="哲学" scheme="http://126hello.github.io/tags/%E5%93%B2%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我写博客的原因</title>
+    <link href="http://126hello.github.io/posts/b8167d5a.html"/>
+    <id>http://126hello.github.io/posts/b8167d5a.html</id>
+    <published>2024-04-24T12:00:47.000Z</published>
+    <updated>2024-04-25T09:55:30.668Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="s首先写一个写博客常常用到的一些HEXO命令"><a href="#s首先写一个写博客常常用到的一些HEXO命令" class="headerlink" title="s首先写一个写博客常常用到的一些HEXO命令"></a>s首先写一个写博客常常用到的一些HEXO命令</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">*打开博客三件套</span><br><span class="line">hexo cl</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br><span class="line"></span><br><span class="line">//上传Github</span><br><span class="line">hexo d</span><br><span class="line"></span><br><span class="line">//想换背景在butterfly中搜background：url（）</span><br><span class="line"></span><br><span class="line">//更新追番</span><br><span class="line">hexo bangumi</span><br><span class="line"></span><br><span class="line">//创建新文章</span><br><span class="line">hexo new post 名字</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="今天先到这里，搞了三天终于搭建了自己的博客-win！！happy"><a href="#今天先到这里，搞了三天终于搭建了自己的博客-win！！happy" class="headerlink" title="今天先到这里，搞了三天终于搭建了自己的博客 win！！happy"></a>今天先到这里，搞了三天终于搭建了自己的博客 win！！happy</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;s首先写一个写博客常常用到的一些HEXO命令&quot;&gt;&lt;a href=&quot;#s首先写一个写博客常常用到的一些HEXO命令&quot; class=&quot;headerlink&quot; title=&quot;s首先写一个写博客常常用到的一些HEXO命令&quot;&gt;&lt;/a&gt;s首先写一个写博客常常用到的一些HEXO</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="http://126hello.github.io/posts/4a17b156.html"/>
+    <id>http://126hello.github.io/posts/4a17b156.html</id>
     <published>2024-04-23T13:59:59.028Z</published>
     <updated>2024-04-24T07:09:34.582Z</updated>
     
